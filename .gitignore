@@ -1,0 +1,5 @@
+# WebStorm IDE
+/.idea
+
+# dependencies
+/node_modules
